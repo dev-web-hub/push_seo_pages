@@ -4,7 +4,7 @@ import (
     "encoding/json"
     "fmt"
     "os"
-    "github.com/max/push_seo_pages/internal"
+    "yourverb/internal"
 )
 
 func main() {
